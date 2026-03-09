@@ -1,0 +1,59 @@
+{
+  "docs": [
+    {
+      "group": "Getting Started",
+      "items": [
+        {
+          "title": "Introduction",
+          "slug": "getting-started",
+          "path": "getting-started/index.md"
+        }
+      ]
+    },
+    {
+      "group": "Setup",
+      "items": [
+        {
+          "title": "Installation",
+          "slug": "setup/installation",
+          "path": "setup/installation.md"
+        },
+        {
+          "title": "Environment Configuration",
+          "slug": "setup/environment",
+          "path": "setup/environment.md"
+        }
+      ]
+    },
+    {
+      "group": "Developer Guide",
+      "items": [
+        {
+          "title": "Onboarding",
+          "slug": "developer-guide/onboarding",
+          "path": "developer-guide/onboarding.md"
+        },
+        {
+          "title": "Workspace Overview",
+          "slug": "developer-guide/workspace",
+          "path": "developer-guide/workspace.md"
+        },
+        {
+          "title": "Running Services",
+          "slug": "developer-guide/running-services",
+          "path": "developer-guide/running-services.md"
+        }
+      ]
+    },
+    {
+      "group": "Architecture",
+      "items": [
+        {
+          "title": "Overview",
+          "slug": "architecture/overview",
+          "path": "architecture/overview.md"
+        }
+      ]
+    }
+  ]
+}
