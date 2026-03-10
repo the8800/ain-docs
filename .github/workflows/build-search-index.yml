@@ -8,6 +8,7 @@ on:
       - '**.md'
       - 'manifest.json'
       - 'scripts/build-search-index.js'
+  workflow_dispatch:
 
 permissions:
   contents: write
